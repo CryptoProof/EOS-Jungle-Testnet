@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NODEOSBINDIR="/home/eos-dawn-v4.2.0/eos/build/programs/nodeos"
+NODEOSBINDIR="~/eos/build/programs/nodeos"
 DATADIR="~/EOSData"
 
 $DATADIR/stop.sh
